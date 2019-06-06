@@ -18,5 +18,6 @@ if (k % 2 == 0)	{
 System.out.println(k);
 }
 }
+ 
 }
 }
